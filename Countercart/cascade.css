@@ -1,0 +1,12 @@
+/*p{
+    border:2px solid;
+    padding:10px;
+    margin:20px;
+    overflow:hidden;
+}*/
+
+@media only screen and (max-width:600px) {
+a{
+    display:block;
+}
+}
